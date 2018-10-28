@@ -1,2 +1,4 @@
 # hello-world
-This is my first repository on GitHub. I'm new to all of this. 
+
+deckardkhd here! This is my first forray onto GitHub, and I can't wait to get collaborating!
+More changes coming soon!
